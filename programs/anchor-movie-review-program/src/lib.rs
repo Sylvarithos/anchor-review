@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("93dzNwMX5WdM5raADbfDizugnsqA8YfMc6MQkUCp8ESo");
+declare_id!("vLkDjdWq9GzbVE6LH5kUDoT3ZjLdXMoBwGhR3w2hnCf");
 
 #[program]
 pub mod anchor_movie_review_program {
